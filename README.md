@@ -406,7 +406,8 @@ function onOpen() {
     *   メニューの「誕生日登録」 > 「誕生日を登録する」を実行します。
 ![gcbars_image1](https://github.com/user-attachments/assets/fdac3f2c-cd86-4e7f-864e-26293ae6af04)
     *   新しく追加した情報のみがカレンダーに登録され、A列にステータスが表示されます。
-![gcbars_image1_2](https://github.com/user-attachments/assets/2ef18966-8b02-4a5e-a940-caa26ac3dbb5)
+![gcbars_image1_2](https://github.com/user-attachments/assets/c685af0d-627a-4a0c-94d6-48b60ac85a5f)
+
 ![gcbars_image2](https://github.com/user-attachments/assets/a4af2db2-77d6-4fe9-8b65-dfbe58453473)
 
 
