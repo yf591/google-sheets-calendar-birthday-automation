@@ -62,7 +62,7 @@ This system automatically registers birthdays listed in a Google Spreadsheet to 
 
 2.  **コードの貼り付け**
     *   スクリプトエディタ（Code.js）に最初から表示されている `function myFunction() { ... }` などのコードを全て削除します。
-    *   以下のコード全体をコピーし、スクリプトエディタに貼り付けます。
+    *   以下のコード全体([Code.js](Code.js))をコピーし、スクリプトエディタに貼り付けます。
 
 ```javascript
 // Code.js
