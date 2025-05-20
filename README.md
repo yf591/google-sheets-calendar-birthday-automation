@@ -35,8 +35,7 @@ This system automatically registers birthdays listed in a Google Spreadsheet to 
     | --------------- | ---- | ----- | ---------- | ---------- | ---------- | ------------ | ------ |
     | 登録ステータス  | 名前 | 誕生日 | 当日通知時間 | 前日通知時間 | 3日前通知時間 | 1週間前通知時間 | 通知方法 |
 
-    *(上記「機能 (Features)の項目」の画像を参照)*
-
+    
 3.  **誕生日データの入力 (任意)**
     *   2行目以降に、登録したい人の情報を入力します。最初は数件テストデータを入れると良いでしょう。
         *   **登録ステータス**: ここはスクリプトが自動で入力するので、最初は空欄で構いません。
@@ -50,7 +49,6 @@ This system automatically registers birthdays listed in a Google Spreadsheet to 
             *   `メール`: Googleカレンダーに登録されたメールアドレスに通知が届きます。
             *   `通知アラート`: Googleカレンダーの標準的なポップアップ通知（デスクトップ通知やモバイル通知）が届きます。
 
-    *(上記「機能 (Features)の項目」の画像を参照)*
 
 ### 2. Google Apps Script (GAS) の設定
 
